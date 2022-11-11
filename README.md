@@ -20,7 +20,7 @@ What to bear in mind when joining:
 ### Sources
 - **Financial Sanctions**: head over to data.europa.eu [here](https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions?locale=en) and extract *the File 1.1*. Please note I used File 1.0 in my script before I was told that File 1.1 is a better choice. This means the names of the variables in my code differ from the names of the variables you will use, but the content should be the same, and I can give you more info on which columns to use if you need any clarification.
 
--**Travel Bans**: head over to data.europa.eu [here](https://data.europa.eu/data/datasets/consolidated-list-of-persons-subject-under-eu-sanctions-to-travel-restrictions?locale=en) and extract the XML file. I asked Massi to convert this for me to csv and that's what I worked with.
+- **Travel Bans**: head over to data.europa.eu [here](https://data.europa.eu/data/datasets/consolidated-list-of-persons-subject-under-eu-sanctions-to-travel-restrictions?locale=en) and extract the XML file. I asked Massi to convert this for me to csv and that's what I worked with.
 
 ### Useful resources
 - [Variables code sheet](https://github.com/simonabisiani/EU-sanctions-tracker/blob/main/FSF-CSV-attributes%5B1384%5D.pdf)
